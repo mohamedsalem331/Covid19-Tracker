@@ -6,6 +6,7 @@
 
 @media (max-width: 770px) {
     .container {
-        width: 85% !important;
+    width: 400px;
+    height: 100%;
     }
 }
